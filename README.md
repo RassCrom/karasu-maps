@@ -1,5 +1,9 @@
 # karasu-maps (raw version)
 
+# Geography of all World Nomad Games (2014-2024)
+![](https://raw.githubusercontent.com/RassCrom/karasu-maps/main/maps/wng_4.png)
+**QGIS, Figma**
+
 # Armenia DEM using flag colors as dem color ramp
 ![](https://github.com/RassCrom/karasu-maps/blob/main/maps/armenia%20dem_flag.png)
 **QGIS, Figma**
